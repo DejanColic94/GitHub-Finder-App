@@ -1,0 +1,44 @@
+.avatar {
+    width: 100%;
+}
+.btn {
+    margin-top: 10px;
+    
+}
+
+.label {
+    font-size: 15px;
+    padding: 5px;
+    
+    font-weight: bold;
+}
+
+.label-default {
+    background-color: rgb(58, 55, 55);
+    color: white;
+}
+
+.label-primary {
+    background-color: rgb(221, 13, 13);
+    color: white;
+}
+
+.label-success {
+    background-color: rgb(6, 224, 115);
+    color: white;
+}
+
+.label-info {
+    background-color: rgb(13, 213, 240);
+    color: white;
+}
+
+.dugme {
+    background-color: rgb(111, 19, 216);
+    color: white;
+    font-size: 15px;
+    padding: 1px;
+    margin: 1px;
+    
+    font-weight: bold;
+}
